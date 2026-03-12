@@ -43,4 +43,4 @@ Is the RPG genre truly in a "Modern Renaissance"? This project analyzes over 20 
 ---
 
 ## Contact
-**[Marek Grobelny]** [marek.grobelny92@gmail.com]
+**Marek Grobelny** [marek.grobelny92@gmail.com]
